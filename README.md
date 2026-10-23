@@ -1,4 +1,4 @@
-# SAE-S1.01
+# SAÉ -S1.01
 Ce projet universitaire consiste à développer un programme capable d’interpréter dix commandes permettant de gérer des participants, des concours, leurs scores et l’évolution de leur classement.
 
 Commandes disponibles :
